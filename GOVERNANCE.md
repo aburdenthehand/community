@@ -12,8 +12,8 @@
 
 ## Maintainers
 
-KubeVirt Maintainers govern the project. Maintainers collectively manage the 
-project's resources and contributors, and speak for the project in public.  The
+KubeVirt maintainers govern the project. Maintainers collectively manage the 
+project's resources and contributors, and speak for the project in public. The
 maintainers collectively decide any questions that cannot be resolved at the 
 individual repository level, and provide strategic guidance for the project
 overall.
@@ -53,10 +53,24 @@ A candidate must be proposed by an existing maintainer by filing an PR in the
 A simple majority vote of +1s from existing Maintainers approves the application. 
 Approved maintainers will be added to the [private maintainer mailing list](mailto:cncf-kubevirt-maintainers@lists.cncf.io).
 
+### Maintainer Responsibilities
+
+Maintainers share the highest level of responsibilities for the project and take the broadest viewpoint.
+They help steer the technical direction of the project as well as shepherd the community so that it is always forward thinking and sustainable.
+
+The core responsibilities of our maintainers are: 
+
+  * Responsive to issues raised on the cncf-maintainers list.
+  * Responsive to issues raised on the security list and CVEs to coordinate and prioritise remediation.
+  * Regularly review and facilitate the acceptance or dismissal of KubeVirt Enhancement Proposals (VEPs) to guide the direction of the project.
+  * Mediate any conflict that may arise on reviews, proposals, in meetings, or on the mailing list or slack channels. 
+  * Lead by example with regard to following and working to improve processes and workflows in the project.
+  * Represent the project by speaking at events and meetups and participating in interviews and press releases.
+
 ### Meetings
 
 Time zones permitting, Maintainers are expected to participate in the weekly public
-community meeting. More details can be found [here](commnuity_meeting.md).
+community meeting or SIG meetings. A list of these meetings is available in our [sig-list](sig-list.md).
 
 Maintainers will also have closed meetings in order to discuss security reports
 or Code of Conduct violations.  Such meetings should be scheduled by any
@@ -81,10 +95,20 @@ on the [private Maintainer mailing list](mailto:cncf-kubevirt-maintainers@lists.
 is a Maintainer, the Maintainers will instead designate two Maintainers to work
 with CNCF staff in resolving the report.
 
-### Removing Maintainers
+### Off-boarding Maintainers and Mentorship
 
-Maintainers may voluntarily retire at any time.  Should a maintainer retire, 
-it requires a majority vote of the current maintainers to reinstate them.
+Maintainers can voluntarily retire at any time, and should always feel that they can rely
+on others to continue their good work. When a maintainer leaves, the project loses valuable 
+knowledge and history.
+
+To facilitate this process, it is encouraged that maintainers recognise when they no longer
+have sufficient time to give to the project and engage in a mentorship with a possible
+maintainer candidate from the community. Through this process, they can help transition some of their experience
+and guide the candidate through expectations of the role.
+
+Should a maintainer retire, it requires a majority vote of the current maintainers to reinstate them.
+
+### Removing Maintainers
 
 Maintainers may also be demoted at any time for one of the following reasons:
 
@@ -95,6 +119,7 @@ Maintainers may also be demoted at any time for one of the following reasons:
   project.
 
 Removing a maintainer requires a 2/3 majority vote of the other maintainers.
+Should a maintainer be demoted, it requires a majority vote of the current maintainers to reinstate them.
 
 ### Voting
 
