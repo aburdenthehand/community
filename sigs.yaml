@@ -270,11 +270,12 @@ sigs:
             - github: dhiller
               name: Daniel Hiller
               company: Red Hat
-            - github: brianmcarey
-              name: Brian Carey
-              company: Red Hat
             - github: xpivarc
               name: Luboslav Pivarc
+              company: Red Hat
+        emeritus_leads:
+            - github: brianmcarey
+              name: Brian Carey
               company: Red Hat
       subprojects:
         - name: kubevirt-buildsystem
@@ -318,23 +319,24 @@ sigs:
       label: sig/ci
       leadership:
         chairs:
-            - github: brianmcarey
-              name: Brian Carey
-              company: Red Hat
             - github: dhiller
               name: Daniel Hiller
+              company: Red Hat
+        emeritus_leads:
+            - github: brianmcarey
+              name: Brian Carey
               company: Red Hat
       meetings:
         - description: KubeVirt CI Taskforce Sync meeting
           day: Monday
-          time: "09:00"
+          time: "10:00"
           tz: CET
           frequency: weekly
           url: https://zoom.us/j/96583958896
           archive_url: https://docs.google.com/document/d/1pWg6JvjStffoZ0NnVk4ALQOs3MYOdHtBpkLBlJlHTqA/edit
         - description: KubeVirt tests quarantine catch-up
           day: Wednesday
-          time: "08:45"
+          time: "09:45"
           tz: CET
           frequency: weekly
           url: https://zoom.us/j/94552009485
