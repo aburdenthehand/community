@@ -11,6 +11,7 @@ The current Maintainers Group for the KubeVirt Project consists of:
 | [Ryan Hallisey](https://github.com/rthallisey) | Nvidia | Scale and Performance |
 | [Andrew Burden](https://github.com/aburdenthehand) | Red Hat | Community Facilitator |
 | [Ľuboslav Pivarč](https://github.com/xpivarc) | Red Hat | Compute and Enhancements |
+| [Itamar Holder](https://github.com/iholder101) | Red Hat | Compute and Enhancements |
 
 This list must be kept in sync with the [CNCF Project Maintainers list](https://github.com/cncf/foundation/blob/master/project-maintainers.csv).
 
